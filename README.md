@@ -13,7 +13,7 @@ Nel tema vengono integrate le componenti di [**Bootstrap Italia**](https://itali
 **MadeIT WordPress Child Theme** propone una **soluzione open-source e gratuita**, ideale per comuni, istituti e piccoli enti pubblici in genere che hanno scelto di utilizzare WordPress per il proprio sito intenet.
 
 
-## Come utlizzare Design Italia
+## Come utlizzare MadeIT WordPress Child Theme
 * Salvare il file [.zip](https://raw.githubusercontent.com/italia/design-wordpress-theme/master/madeit-wp-child-theme.zip) in locale.
 * Aggiungere un nuovo tema nella sezione _"Aspetto" > "Temi"_.
 * Selezionare _"Aggiungi nuovo"_ e successivamente _"Carica tema"_.
